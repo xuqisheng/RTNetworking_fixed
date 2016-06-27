@@ -1,0 +1,677 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/xrmobile/!svn/ver/3248/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices
+END
+InputLeaveGoodsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/InputLeaveGoodsService.h
+END
+RoomRepairesItemsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomRepairesItemsService.h
+END
+SubCheckTaskService.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SubCheckTaskService.h
+END
+SyncDataService.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SyncDataService.m
+END
+Msg_AuticheckService.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_AuticheckService.m
+END
+InputLeaveGoodsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/InputLeaveGoodsService.m
+END
+RoomRepairesItemsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomRepairesItemsService.m
+END
+AddRepairsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/AddRepairsService.h
+END
+SubCheckTaskService.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SubCheckTaskService.m
+END
+ServiceChoiceReasonService.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ServiceChoiceReasonService.h
+END
+AddRepairsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/AddRepairsService.m
+END
+RoomLeaseService.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomLeaseService.h
+END
+ChangeRoomStatusService.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ChangeRoomStatusService.h
+END
+ServiceChoiceReasonService.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ServiceChoiceReasonService.m
+END
+DownLoadVicAndPicService.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/DownLoadVicAndPicService.h
+END
+ChangeRoomStatusService.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ChangeRoomStatusService.m
+END
+DoLockRoomsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/DoLockRoomsService.h
+END
+RoomLeaseService.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomLeaseService.m
+END
+ConsumeStatisticListService.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ConsumeStatisticListService.h
+END
+DownLoadVicAndPicService.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/DownLoadVicAndPicService.m
+END
+DoLockRoomsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/DoLockRoomsService.m
+END
+ConsumeStatisticListService.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ConsumeStatisticListService.m
+END
+MinibarHistoryService.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/MinibarHistoryService.h
+END
+SubmitCleaningResultService.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SubmitCleaningResultService.h
+END
+MinibarHistoryService.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/MinibarHistoryService.m
+END
+SubmitCleaningResultService.m
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SubmitCleaningResultService.m
+END
+RoomsNeedCleanInfoService.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomsNeedCleanInfoService.h
+END
+SubStartCleanService.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SubStartCleanService.h
+END
+ActiveService.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ActiveService.h
+END
+getRmstaDiagramService.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/getRmstaDiagramService.h
+END
+ExamineRepairsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ExamineRepairsService.h
+END
+SubStartCleanService.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SubStartCleanService.m
+END
+RoomsNeedCleanInfoService.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomsNeedCleanInfoService.m
+END
+getRmstaDiagramService.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/getRmstaDiagramService.m
+END
+ActiveService.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ActiveService.m
+END
+ExamineRepairsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ExamineRepairsService.m
+END
+Msg_EditDishpatchService.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_EditDishpatchService.h
+END
+GetMessageService.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetMessageService.h
+END
+Msg_RepairManService.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_RepairManService.h
+END
+BookListService.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/BookListService.h
+END
+Msg_EditDishpatchService.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_EditDishpatchService.m
+END
+GetMessageService.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetMessageService.m
+END
+Msg_RepairManService.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_RepairManService.m
+END
+BookListService.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/BookListService.m
+END
+GetMsgHistoryService.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetMsgHistoryService.h
+END
+LoginService.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/LoginService.h
+END
+EditRepairsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/EditRepairsService.h
+END
+getRmNeedCleanService.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/getRmNeedCleanService.h
+END
+GetMsgHistoryService.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetMsgHistoryService.m
+END
+LoginService.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/LoginService.m
+END
+SearchLeaveGoodsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SearchLeaveGoodsService.h
+END
+RoomsNeedCleanStausService.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomsNeedCleanStausService.h
+END
+RepairsAndQueryService.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RepairsAndQueryService.h
+END
+EditRepairsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/EditRepairsService.m
+END
+getRmNeedCleanService.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/getRmNeedCleanService.m
+END
+ChangeToTempStatusService.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ChangeToTempStatusService.h
+END
+SearchLeaveGoodsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SearchLeaveGoodsService.m
+END
+RoomsNeedCleanStausService.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomsNeedCleanStausService.m
+END
+RepairsAndQueryService.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RepairsAndQueryService.m
+END
+GetCleaningTasksService.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetCleaningTasksService.h
+END
+PostMinibarService.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/PostMinibarService.h
+END
+ChangeToTempStatusService.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ChangeToTempStatusService.m
+END
+OperateContractRoomService.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/OperateContractRoomService.h
+END
+RentHistoryService.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2977/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RentHistoryService.h
+END
+GetCleaningTasksService.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetCleaningTasksService.m
+END
+PostMinibarService.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/PostMinibarService.m
+END
+RepairsPassService.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RepairsPassService.h
+END
+GetRoomStatuService.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetRoomStatuService.h
+END
+OperateContractRoomService.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/OperateContractRoomService.m
+END
+ProcessSerMsgService.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ProcessSerMsgService.h
+END
+RentHistoryService.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2977/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RentHistoryService.m
+END
+RepairsPassService.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RepairsPassService.m
+END
+GetRoomStatuService.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetRoomStatuService.m
+END
+ProcessSerMsgService.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ProcessSerMsgService.m
+END
+PassiveCheckRoomService.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/PassiveCheckRoomService.h
+END
+AspectMessService.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/AspectMessService.h
+END
+SavedDetailsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SavedDetailsService.h
+END
+LogoutService.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/LogoutService.h
+END
+PassiveCheckRoomService.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/PassiveCheckRoomService.m
+END
+AspectMessService.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/AspectMessService.m
+END
+SavedDetailsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SavedDetailsService.m
+END
+LogoutService.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/LogoutService.m
+END
+DeleteConsumesService.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/DeleteConsumesService.h
+END
+SubmitConsumesService.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SubmitConsumesService.h
+END
+Msg_CheckService.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_CheckService.h
+END
+Msg_AddVerifyService.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_AddVerifyService.h
+END
+DeleteConsumesService.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/DeleteConsumesService.m
+END
+RoomRepaireService.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomRepaireService.h
+END
+SubmitConsumesService.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SubmitConsumesService.m
+END
+Msg_AddDishpatchService.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_AddDishpatchService.h
+END
+Msg_CheckService.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_CheckService.m
+END
+Msg_AddVerifyService.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_AddVerifyService.m
+END
+GetRoomInfoService.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetRoomInfoService.h
+END
+RoomRepaireService.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomRepaireService.m
+END
+Msg_AddDishpatchService.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_AddDishpatchService.m
+END
+EquipmentStatisticListService.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/EquipmentStatisticListService.h
+END
+GetConsumesService.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetConsumesService.h
+END
+ReportAndCheckService.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ReportAndCheckService.h
+END
+GetRoomInfoService.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetRoomInfoService.m
+END
+GetContractRoomsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetContractRoomsService.h
+END
+DoUnLockRoomsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/DoUnLockRoomsService.h
+END
+RoomHistoryService.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/3248/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomHistoryService.h
+END
+RecevicedDetailsService.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RecevicedDetailsService.h
+END
+EquipmentStatisticListService.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/EquipmentStatisticListService.m
+END
+GetConsumesService.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetConsumesService.m
+END
+ReportAndCheckService.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/ReportAndCheckService.m
+END
+GetContractRoomsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/GetContractRoomsService.m
+END
+DoUnLockRoomsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/DoUnLockRoomsService.m
+END
+RoomHistoryService.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/xrmobile/!svn/ver/3248/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RoomHistoryService.m
+END
+RecevicedDetailsService.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/RecevicedDetailsService.m
+END
+Msg_AuticheckService.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/Msg_AuticheckService.h
+END
+SyncDataService.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/xrmobile/!svn/ver/2777/trunk/app/kft/ios/branches/KFT2.0.4/KFT/Vendor/AndyNetWork/Service/SystemServices/SyncDataService.h
+END
